@@ -128,21 +128,3 @@ module.exports = new GraphQLSchema({
   query: RootQuery,
   mutation
 });
-
-/**
- * 1. Una razon desesperada para aprender el idioma: Better Payment
- * 2. Sumergete en el lenguaje, todos los días en cada momento
- *    - Mira peliculas en ingles, escucha canciones en ingles
- * 3. Hacer un amigo o tener un mentor con quien hablar el ingles
- *
- * My desperate reason why I want to learn english is: Get a better paid
- *  Job
- *
- * 1. Pick up a grammar book
- * 2. Pick up a phrase book
- * 3. Diccionario de antonimos y sinonimos
- *
- * Lee un libro, 2 parrafos, grabalo. Luego leelo mientras escuchas tu grabacion
- * Reduce the amount of time you speak your native language
- *
- */
